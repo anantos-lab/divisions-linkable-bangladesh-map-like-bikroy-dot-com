@@ -22,4 +22,4 @@ You Can use em and px..
 
 #example
 
-<img src= "https://github.com/zithroooo/divisions-linkable-bangladesh-map-like-bikroy-dot-com/master/example.gif"/>
+<img src= "https://github.com/zithroooo/divisions-linkable-bangladesh-map-like-bikroy-dot-com/blob/master/example.gif?raw=true"/>
